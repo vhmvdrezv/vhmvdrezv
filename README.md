@@ -71,10 +71,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhmvdrezv&layout=compact&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=vhmvdrezv&show_icons=true&theme=tokyonight&hide=stars,issues" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vhmvdrezv&theme=tokyonight" />
-  <br />
   <img src="https://github-profile-trophy.vercel.app/?username=vhmvdrezv&theme=tokyonight&margin-w=10&row=1" />
 </p>
 
