@@ -34,10 +34,12 @@
 ![OAuth2](https://img.shields.io/badge/-Google%20OAuth2-4285F4?style=flat&logo=google&logoColor=white)
 ![Role-Based Access](https://img.shields.io/badge/-RBAC-007ACC?style=flat&logo=shield&logoColor=white)
 
-#### Dev Tools
+#### 🧪 Dev Tools & Documentation
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
 
 ---
 
